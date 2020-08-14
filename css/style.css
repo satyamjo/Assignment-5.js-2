@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+.login {
+    width: 50%;
+    margin: 100px auto;
+    background-color: aliceblue;
+}
+
+.heading {
+    margin: 10px auto 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.hr_line {
+    border-top: 3px dotted royalblue;
+    width: 80%;
+    margin: 5px auto;
+}
+
+.further_info {
+    width: 80%;
+    margin: auto;
+}
+
+.form-info {
+    margin: 20px auto;
+}
+
+h4 {
+    margin: 15px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input {
+    width: 80%;
+}
+
+input[type=text],
+input[type=password] {
+    background-color: #3CBC8D;
+    color: white;
+    border: 2px solid rgb(58, 52, 52);
+    border-radius: 4px;
+    padding: 5px 0;
+}
